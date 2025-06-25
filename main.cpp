@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-
 using namespace std;
 
 //this is to show the menu
@@ -53,7 +52,7 @@ int main ()
     case 1:
         explainHowAIWorks(choice);
         break;
-    case 2:
+    case 7:
         cout << "Exiting the program. Goodbye!\n";
         break;
     default:
